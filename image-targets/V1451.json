@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 138,
+    "left": 0,
+    "width": 569,
+    "height": 758,
+    "isRotated": true,
+    "originalWidth": 569,
+    "originalHeight": 1035
+  },
+  "imagePath": "image-targets/V1451_luminance.jpg",
+  "metadata": null,
+  "name": "V1451",
+  "resources": {
+    "originalImage": "V1451_original.jpg",
+    "croppedImage": "V1451_cropped.jpg",
+    "thumbnailImage": "V1451_thumbnail.jpg",
+    "luminanceImage": "V1451_luminance.jpg"
+  },
+  "created": 1790200841102,
+  "updated": 1790200841102
+}
